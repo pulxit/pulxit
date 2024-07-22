@@ -13,5 +13,5 @@ Remember, the only thing more important than a cool GitHub profile is how you us
 
 Stay genius, stay awesome,
 
-Pulkit Jai
+Pulkit
 
