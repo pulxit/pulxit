@@ -1,17 +1,29 @@
-# Welcome to the Party!
+<div align="center">
+  
+![Developer at work](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-👋 Hi, I’m Pulkit.
+# Hello, universe! I'm Pulkit ✨
 
-## About Me
-- 👀 I’m interested in creating revolutionary technologies and pushing the boundaries of human capability.
-- 🌱 I’m currently learning how to make an arc reactor in a cave with a box of scraps! (metaphor in intended)
-- 💞️ I’m looking to collaborate on ML/AI-driven projects.
-- 📫 How to reach me: Drop a message here on GitHub.
-- 😄 Pronouns: He/Him/let’s get to work.
+*They say the best engineers can build anything. I'm here to prove them right.*
 
-Remember, the only thing more important than a cool GitHub profile is how you use your code to change the world.
+</div>
 
-Stay genius, stay awesome,
+## The Chronicles 📖
+- 🎯 Architecting solutions that make yesterday's impossibilities today's mundane tasks
+- 🔮 Currently crafting the future with ML/AI, one model at the time
+- 🚀 Building things that would make Tony Stark proud (and yes, that includes working with scraps)
+- 🤝 Open to collaborations that push the boundaries of what's possible
+- 💭 If you can dream it, we can build it
 
-Pulkit
+## The Fine Print 🔍
+- 📫 Find me in the matrix (or just drop a message here)
+- 🎭 Pronouns: He/Him/sudo
+- 💡 Fun fact: I don't always test my code, but when I do, I do it in production
 
+*"The only way to do great work is to love what you do"* - And I've got plenty of love to spare.
+
+<div align="center">
+
+*Making the world better, one commit at a time*
+
+</div>
