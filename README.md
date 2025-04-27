@@ -16,7 +16,7 @@
 - 💭 If you can dream it, we can build it
 
 ## The Fine Print 🔍
-- 📫 Find me in the matrix (or drop a message here)
+- 📫 Drop a message here :)
 - 🎭 Pronouns: He/Him/sudo
 - 💡 Fun fact: I don't always test my code, but when I do, I do it in production
 
