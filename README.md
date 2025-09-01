@@ -25,7 +25,7 @@
 ```python
 class Pulkit:
     def __init__(self):
-        self.languages = ["Python", "JavaScript", "Go", "Rust"]
+        self.languages = ["Python", "JavaScript"]
         self.interests = ["AI/ML", "System Design", "Open Source"]
         self.current_focus = "Building the future, one commit at a time"
     
