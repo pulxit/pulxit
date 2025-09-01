@@ -1,8 +1,6 @@
 <div align="center">
 
 ![Clean code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-<div align="center">
     
 ```
 ┌─────────────────────────────┐
