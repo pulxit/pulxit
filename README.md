@@ -8,7 +8,7 @@
 
 ---
 
-**Currently building** → ML systems that actually solve problems, [whereismyserotonin.com](https://whereismyserotonin.com/) 
+**Currently building** → ML systems that actually solve problems, [whereismyserotonin.com](https://whereismyserotonin.com/)
 **Usually found** → Deep in prompting codex/cc at 2 AM, loving every minute  
 **Philosophy** → Doing it > Thinking about it  
 **Superpower** → Turning iced-tea into systems  
