@@ -35,7 +35,7 @@ class Pulkit:
 
 <div align="center">
 
-**Let's connect** → [Drop me a line](mailto:your-email@domain.com)
+**Let's connect** → hello[at]pulxit[dot]com
 
 *The best code is the code you don't have to write.*
 
