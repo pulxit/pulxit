@@ -2,31 +2,24 @@
 
 ![Clean code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
     
-```
-┌─────────────────────────────┐
-│          Pulkit             │
-│        An Engineer          │
-└─────────────────────────────┘
-```
-
 *Writing code that writes itself.*
 
 </div>
 
 ---
 
-**Currently building** → ML systems that actually solve problems  
-**Usually found** → Deep in a debugger at 2 AM, loving every minute  
-**Philosophy** → Elegant solutions > clever hacks  
-**Superpower** → Turning coffee into distributed systems  
+**Currently building** → ML systems that actually solve problems, [whereismyserotonin.com](https://whereismyserotonin.com/) 
+**Usually found** → Deep in prompting codex/cc at 2 AM, loving every minute  
+**Philosophy** → Doing it > Thinking about it  
+**Superpower** → Turning iced-tea into systems  
 
 <br>
 
 ```python
 class Pulkit:
     def __init__(self):
-        self.languages = ["Python", "JavaScript"]
-        self.interests = ["AI/ML", "System Design", "Open Source"]
+        self.languages = ["Python", "TypeScript"]
+        self.interests = ["AI/ML", "System Design"]
         self.current_focus = "Building the future, one commit at a time"
     
     def collaborate(self, idea):
