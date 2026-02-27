@@ -1,36 +1,31 @@
 <div align="center">
 
-![Clean code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-    
-*Writing code that writes itself.*
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p4d2dwZGoxZDRhaWN5aGl2eTg2Yjc1NXAzYjJnbzYwNDA1Z2I2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6TgcESZt8FFk8XV7K/giphy.gif)
+
+*Mach 3.2. No radar signature. Just commits.*
 
 </div>
 
 ---
-
-**Currently building** → ML systems that actually solve problems, [whereismyserotonin.com](https://whereismyserotonin.com/)
-<br>
-**Usually found** → Deep in prompting codex/cc at 2 AM, loving every minute  
-**Philosophy** → Doing it > Thinking about it  
-**Superpower** → Turning iced-tea into systems  
-
-<br>
-
 ```python
 class Pulkit:
     def __init__(self):
-        self.languages = ["Python", "TypeScript"]
-        self.interests = ["AI/ML", "System Design"]
-        self.current_focus = "Building the future, one commit at a time"
-    
-    def collaborate(self, idea):
-        return "Let's build it" if self.is_interesting(idea) else "Let's make it interesting"
+        self.stack        = ["Python", "TypeScript"]
+        self.focus        = ["AI/ML", "System Design"]
+        self.heroes       = ["SR-71 Blackbird", "Lewis Hamilton", "RDJ"]
+        self.comfort_film = "Interstellar (yes, every rewatch hits different)"
+        self.spirit_jet   = "Su-30 — twin-engine, unreasonably agile, slightly unhinged"
+
+    def approach(self):
+        # Like Cooper in the Tesseract — figure it out as you go
+        return "ship it, learn from it, don't overthink it"
 ```
 
+The SR-71 flew faster than anything trying to catch it.
+I try to build the same way.
+
+---
+
 <div align="center">
-
-**Let's connect** → hello[at]pulxit[dot]com
-
-*The best code is the code you don't have to write.*
-
+Say hi → hey@pulkit.com
 </div>
