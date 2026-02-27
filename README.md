@@ -27,5 +27,5 @@ I try to build the same way.
 ---
 
 <div align="center">
-Say hi → hey@pulkit.com
+Say hi → hey@pulxit.com
 </div>
